@@ -3,3 +3,10 @@ Create a new file called newfile.txt, add some contents to it and push it to Git
 Update newfile.txt and push the changes to GitHub
 
 Open the repository on GitHub and make changes to newfile.txt1
+
+Answer for what is the difference between add, commit, and push?
+
+Git add just add your modified files to the queue whenever you want to commit it later,
+Git commit on the other hand commites the file the you "-git add" if you didn't "git add" any file there's nothing to commit,
+Git push is when your ready to push your commited work into the remote repository, if you just commit changes happen only on your local pc and-
+if somebody pull from the remote repository they wont get your changes because you haven't pull it yet
